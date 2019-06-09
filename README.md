@@ -16,6 +16,6 @@
 
 - Download as .zip file or clone this project
 
-- Open the index.html in your local browser.
+- Open the kurosaki_index.html in your local browser.
 
 
